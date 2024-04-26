@@ -58,6 +58,10 @@ python game_data_scraper.py
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
+### Contributors
+- Shrey Patel
+- Tirth Patel
+
 ### License
 This project is licensed under the MIT License.
 
